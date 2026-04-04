@@ -38,6 +38,4 @@ The **Driver Drowsiness Detection System** is a real-time computer vision-based 
 ## 📂 Project Structure
 ## 🎥 Demo Video
 
-<video width="600" controls>
-  <source src="D:\OpenCV\Project\Recording 2026-04-01 121208.mp4" type="video/mp4">
-</video>
+https://github.com/DevanshiWork1404/Driver-Drowsiness-Detection-System-using-Computer-Vision/blob/main/Recording%202026-04-01%20121208.mp4
